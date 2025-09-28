@@ -1,0 +1,12 @@
+# Core dependencies
+fastmcp
+strands-agents
+strands-agents-tools
+openai
+
+# UI framework for Kite portfolio demo
+streamlit
+
+# Optional extras for rich formatting, debugging, etc.
+rich
+dill
